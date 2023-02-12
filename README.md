@@ -1,7 +1,7 @@
 # Spin Coater
 # Desarrollo de un recubridor centrifugo de película delgada
 
-Por: Henrry Caticuago
+[Por: Henrry Caticuago]
 
 Para identificar la necesidad de un recubridor centrifugo se ha realizado una encuesta
 a los estudiantes de 8vo y 9no semestre de la carrera de Ingeniería Industrial (Población: 39 estudiantes), 
